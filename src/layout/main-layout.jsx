@@ -1,9 +1,9 @@
 import { Outlet } from "react-router-dom";
 import { Header } from "./header/header";
-import { Footer } from "./footer/Footer";
-
+import { Footer } from "./footer/footer";
 export const MainLayout = () => {
-  return (
+  // hello
+  return ( 
     <>
       <div>
         <Header />
