@@ -7,7 +7,7 @@ export const Banner = () => {
     <section className="pt-4 pb-14">
       <div className="container">
         <div className="flex gap-6">
-          <div className="grow bg-[#eef4ff] rounded-[12px] pt-[32px] pl-[24px] pr-[32px] pb-[16px]">
+          <div className="grow bg-[#eef4ff] rounded-xl pt-8 pl-6 pr-8 pb-4">
             <div className="flex gap-[13px] justify-between">
               <h3 className="font-bold text-[24px] text-[#242424]">
                 Кўп ўқилаётганлар

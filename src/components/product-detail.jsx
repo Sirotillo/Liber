@@ -19,8 +19,8 @@ export const ProductDetail = ({
   const numRating = Math.floor(rating);
   return (
     <div className="container flex justify-between gap-6">
-      <div className="w-[300px] sm:w-full h-[422px] overflow-hidden rounded-xl">
-        <img src={img} alt="" className="w-full h-full object-cover" />
+      <div className="w-[300px] h-[422px] overflow-hidden rounded-xl">
+        <img src={img} alt="" className="w-full h-full object-contain" />
       </div>
 
       <div>
