@@ -28,7 +28,7 @@ function App() {
             <Route path="check" element={<Check />} />
             <Route path="books" element={<Books />} />
             <Route path="saves" element={<Saves />} />
-            <Route path="setting" element={<Settings />} />
+            <Route path="settings" element={<Settings />} />
             <Route path="dark-mode" element={<DarkMode />} />
           </Route>
         </Route>
